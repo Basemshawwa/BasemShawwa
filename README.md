@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/foodkodeliveryapp.appspot.com/o/download.jpeg?alt=media&token=b05a3d41-038c-4437-87cf-1c763e7468da" align="center" width="800" height="333">
+<img src="https://firebasestorage.googleapis.com/v0/b/foodkodeliveryapp.appspot.com/o/download.jpeg?alt=media&token=b05a3d41-038c-4437-87cf-1c763e7468da" align="center" width="900" height="333">
 
 <h1 align="center">Hi 👋, I'm Basem Shawwa</h1>
 <h3 align="center">A passionate Android and iOS developer from Palestine</h3>
