@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Basem Shawwa</h1>
 <h3 align="center">A passionate Android and iOS developer from Palestine</h3>
+<h3 align="center">Node js, Swift, Flutter</h3>
 
 <img src="https://firebasestorage.googleapis.com/v0/b/foodkodeliveryapp.appspot.com/o/e1f3413bf5036045713341394f617225.gif?alt=media&token=4a58a938-18f3-46af-bad0-67c487dbdd5f" align="right" width="500" height="333">
 
