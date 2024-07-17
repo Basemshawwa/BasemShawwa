@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://basem-shawwa-portfolio.web.app/#/](https://basem-shawwa-portfolio.web.app/#/)
 
-- 💬 Ask me about **Flutter ,Kotlin, Android, iOS**
+- 💬 Ask me about **Flutter ,Kotlin, Android, iOS, Swift, Node JS**
 
 - 📫 How to reach me **Basim.shawwa@hotmail.com**
 
